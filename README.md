@@ -16,7 +16,7 @@ This project aims to predict quarterly sales trends using historical data.
 - Visualized insights using Power BI dashboards
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/YourUsername/Predictive_Analysis`
+1. Clone this repository: `git clone https://github.com/CarolineCChen/Predictive_Analysis`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter Notebook and follow the steps.
 
